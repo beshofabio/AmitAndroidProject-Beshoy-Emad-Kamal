@@ -41,6 +41,11 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+//Thank you
+//Beshoy Emad Kamal Guirguis
+// Amit
+//Goodbye
+
 @Composable
 fun MealsAppCompose(modifier: Modifier){
     val navController = rememberNavController()
